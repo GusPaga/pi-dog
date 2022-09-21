@@ -1,0 +1,19 @@
+.result {
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    width: 30vw;
+    height: 45vh;
+    margin: 50px auto;
+
+}
+
+.result h1 {
+    font-size: 50px;
+    margin: 50px auto
+}
+
+.result h2 {
+    font-size: 80px;
+    margin: 50px auto
+}

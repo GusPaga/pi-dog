@@ -1,0 +1,36 @@
+.card {
+    margin-top: 5px;
+    background-color: #273c758f;
+    border-radius: 10px;
+    border: 1px solid darkslategrey;
+    height: 280px;
+    width: 500px;
+    color: #dcdde1;
+}
+
+.card h5 {
+    text-shadow: 2px 2px black;
+    text-transform: capitalize;
+}
+
+.card h3 {
+    margin: 5px auto;
+}
+
+.detail {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+
+}
+
+.detail p {
+    margin-top: -20px;
+    font-weight: 100px;
+}
+
+.img {
+    width: 200px;
+    height: 145px;
+    margin: 30px auto;
+    border-radius: 10px;
+}

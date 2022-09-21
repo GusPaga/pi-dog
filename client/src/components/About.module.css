@@ -1,0 +1,115 @@
+.nav h1 {
+    font-size: 20px;
+    text-shadow: 3px 3px black;
+    font-style: italic;
+}
+
+.contact h2 {
+    font-size: 22px;
+    text-shadow: 1px 2px white;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+.contact label {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.contact p {
+    margin-top: 10px;
+    text-align: justify;
+    text-indent: 20px;
+    font-size: 20px;
+    text-shadow: 1.5px 1.5px white;
+    font-style: italic;
+}
+
+.nav {
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    align-items: center;
+    height: 50px;
+    color: white;
+    font-style: italic;
+}
+
+.nav img {
+    height: 40px;
+}
+
+.container {
+    background-color: rgba(245, 245, 220, 0.6);
+    height: 75vh;
+    width: 60vw;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 80px auto;
+}
+
+.body {
+    display: flex;
+    height: 380px;
+}
+
+.contact {
+    padding: 20px;
+    align-self: center;
+    margin: auto;
+    width: 500px;
+}
+
+.gus {
+    margin-top: 30px;
+    width: 300px;
+    height: 300px;
+    align-self: center;
+}
+
+.gus img {
+    width: 300px;
+    height: 300px;
+}
+
+.rs {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 20px;
+}
+
+.rs img {
+    height: 50px;
+}
+
+.but {
+    display: flex;
+    font-style: italic;
+    margin: 10px auto;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.but p {
+    font-size: 20px;
+}
+
+.but button {
+    height: 30px;
+    width: 100px;
+    color: white;
+    margin-left: px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    background-color: #0652DD;
+    text-shadow: 2px 2px black;
+}
+
+.but button:hover {
+    background-color: #1B1464;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}

@@ -1,0 +1,31 @@
+.nav {
+    display: flex;
+    background-color: black;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navLogo {
+    margin-left: 30px;
+}
+
+.navBut {
+    margin: 30px;
+
+}
+
+.landing {
+    height: 86vh;
+    width: 50vw;
+    margin: 10px auto;
+    border: 3px solid black;
+    color: white;
+    text-shadow: 4px 4px black;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.slide {
+    max-width: auto;
+    overflow: hidden;
+}

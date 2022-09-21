@@ -1,0 +1,19 @@
+.footer {
+    display: flex;
+    color: white;
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+    font-style: italic;
+    margin-top: auto;
+    padding: 3px;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+
+}
