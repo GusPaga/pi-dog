@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94fefe0e.chunk.css",
+    "main.js": "/static/js/main.7d3d6e3a.chunk.js",
+    "main.js.map": "/static/js/main.7d3d6e3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7b165974.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7b165974.js.map",
+    "static/js/2.0d1964e6.chunk.js": "/static/js/2.0d1964e6.chunk.js",
+    "static/js/2.0d1964e6.chunk.js.map": "/static/js/2.0d1964e6.chunk.js.map",
+    "static/js/3.830ba22c.chunk.js": "/static/js/3.830ba22c.chunk.js",
+    "static/js/3.830ba22c.chunk.js.map": "/static/js/3.830ba22c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.94fefe0e.chunk.css.map": "/static/css/main.94fefe0e.chunk.css.map",
+    "static/js/2.0d1964e6.chunk.js.LICENSE.txt": "/static/js/2.0d1964e6.chunk.js.LICENSE.txt",
+    "static/media/Gustavo.3000073d.png": "/static/media/Gustavo.3000073d.png",
+    "static/media/forest.730070a8.jpg": "/static/media/forest.730070a8.jpg",
+    "static/media/github.44eee0c4.png": "/static/media/github.44eee0c4.png",
+    "static/media/index.css": "/static/media/lago.78824ffb.jpg",
+    "static/media/linkedin.f249b382.png": "/static/media/linkedin.f249b382.png",
+    "static/media/terraza.94e54f0b.jpg": "/static/media/terraza.94e54f0b.jpg",
+    "static/media/truck.e34e9f00.jpg": "/static/media/truck.e34e9f00.jpg",
+    "static/media/unidos.8c4f317a.jpg": "/static/media/unidos.8c4f317a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b165974.js",
+    "static/js/2.0d1964e6.chunk.js",
+    "static/css/main.94fefe0e.chunk.css",
+    "static/js/main.7d3d6e3a.chunk.js"
+  ]
+}
